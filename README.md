@@ -27,7 +27,7 @@ In digital marketing, customer journeys typically involve multiple touchpoints a
 ```bash
 # Clone the repository
 git clone https://github.com/HarshVBhatt/digital-marketing-mta-budget-optimization.git
-cd marketing-attribution
+cd digital-marketing-mta-budget-optimization
 
 # Install required packages
 pip install ChannelAttribution pandas numpy matplotlib seaborn plotly scipy streamlit
