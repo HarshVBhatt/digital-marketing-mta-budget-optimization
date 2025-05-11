@@ -26,7 +26,7 @@ In digital marketing, customer journeys typically involve multiple touchpoints a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/marketing-attribution.git
+git clone https://github.com/HarshVBhatt/digital-marketing-mta-budget-optimization.git
 cd marketing-attribution
 
 # Install required packages
